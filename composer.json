@@ -1,7 +1,7 @@
 {
   "name": "samwaters/litlephp",
   "descrtiption": "PHP Litle API Client",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "keywords": ["litle", "vantiv", "php"],
   "homepage": "http://www.samwaters.com",
   "license": "DBAD",
@@ -19,6 +19,5 @@
     "psr-0": {
       "LitlePHP": "src/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
