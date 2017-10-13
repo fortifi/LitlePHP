@@ -1,8 +1,11 @@
 {
-  "name": "samwaters/litlephp",
-  "descrtiption": "PHP Litle API Client",
-  "version": "0.0.2",
-  "keywords": ["litle", "vantiv", "php"],
+  "name": "fortifi/litlephp",
+  "description": "PHP Litle API Client",
+  "keywords": [
+    "litle",
+    "vantiv",
+    "php"
+  ],
   "homepage": "http://www.samwaters.com",
   "license": "DBAD",
   "authors": [
